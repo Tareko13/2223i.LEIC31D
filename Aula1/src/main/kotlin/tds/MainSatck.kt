@@ -10,4 +10,5 @@ fun main() {
         val elem = stk.pop()
         println(elem)
     }
+    
 }
